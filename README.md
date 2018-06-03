@@ -1,3 +1,3 @@
-# AndroidGenerateTests
+# Android Generate Tests
 
 Данный программный продукт представляет собой плагин для автоматической генерации unit и UI-тестов для среды разработки Android Studio
